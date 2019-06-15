@@ -1738,11 +1738,11 @@
             },
             "div": {
               "color": "#000",
-              "text-shadow": "0 0 20px #000000"
+              "text-shadow": "0 10px 20px #000000"
             },
             "H1": {
               "color": "#ffffff",
-              "text-shadow": "0 0 20px #000000"
+              "text-shadow": "0 10px 20px #000000"
             }
           },
           "_name": "form3",

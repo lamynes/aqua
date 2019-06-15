@@ -1664,6 +1664,10 @@ body {
     left: -1rem;
   }
 }
+.cid-rsTN6Wzzi7 div {
+  color: #000;
+  text-shadow: 0 10px 20px #000000;
+}
 .cid-rsTNhqjqk8 {
   overflow: hidden !important;
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
@@ -1681,7 +1685,7 @@ body {
 }
 .cid-rsTNhqjqk8 H1 {
   color: #ffffff;
-  text-shadow: 0 0 20px #000000;
+  text-shadow: 0 10px 20px #000000;
 }
 .cid-rsTNhqjqk8 .mbr-section-title {
   color: #efefef;

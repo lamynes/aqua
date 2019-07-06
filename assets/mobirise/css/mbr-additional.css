@@ -1671,36 +1671,37 @@ body {
   color: #000;
   text-shadow: 0 10px 20px #000000;
 }
-.cid-rsTNhqjqk8 {
+.cid-rvsFKBq0c8 {
   overflow: hidden !important;
+  background-image: url("../../../assets/images/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.webp");
 }
-.cid-rsTNhqjqk8 .container-fluid {
+.cid-rvsFKBq0c8 .container-fluid {
   padding: 0 3rem;
 }
-.cid-rsTNhqjqk8 .animated-element {
+.cid-rvsFKBq0c8 .animated-element {
   color: #ffffff;
 }
 @media (max-width: 767px) {
-  .cid-rsTNhqjqk8 .container-fluid {
+  .cid-rvsFKBq0c8 .container-fluid {
     padding: 0 1rem;
   }
 }
-.cid-rsTNhqjqk8 H1 {
+.cid-rvsFKBq0c8 H1 {
   color: #ffffff;
   text-shadow: 8px 15px 20px #000000;
 }
-.cid-rsTNhqjqk8 .mbr-section-title {
+.cid-rvsFKBq0c8 .mbr-section-title {
   color: #efefef;
 }
-.cid-rsTNhqjqk8 .mbr-section-subtitle,
-.cid-rsTNhqjqk8 .mbr-section-btn {
+.cid-rvsFKBq0c8 .mbr-section-subtitle,
+.cid-rvsFKBq0c8 .mbr-section-btn {
   color: #7ccbf1;
 }
-.cid-rsTNhqjqk8 .mbr-section-title P {
+.cid-rvsFKBq0c8 .mbr-section-title P {
   text-align: center;
 }
 .cid-rvsmQkawSE {
-  padding-top: 0px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1745,7 +1746,7 @@ body {
   z-index: 1;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  background-color: #7ccbf1;
+  background-color: #ff7d84;
 }
 .cid-rvsmQkawSE .card .card-wrapper .card-img .img-text span {
   display: block;
@@ -2526,6 +2527,20 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
+}
+.cid-rsTNGzgFck .card-support li img {
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: gray;
+}
+.cid-rsTNGzgFck .card-support li img:hover {
+  -webkit-filter: none;
+  -moz-filter: none;
+  -ms-filter: none;
+  -o-filter: none;
+  filter: none;
 }
 .cid-rsTNGzgFck .social-media {
   margin-top: 1.5rem;

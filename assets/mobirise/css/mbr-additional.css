@@ -1687,7 +1687,7 @@ body {
 }
 .cid-rsTNhqjqk8 H1 {
   color: #ffffff;
-  text-shadow: 0 10px 20px #000000;
+  text-shadow: 8px 15px 20px #000000;
 }
 .cid-rsTNhqjqk8 .mbr-section-title {
   color: #efefef;
@@ -1700,9 +1700,9 @@ body {
   text-align: center;
 }
 .cid-rvsmQkawSE {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #efefef;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-rvsmQkawSE .container-fluid {
   padding: 0 3rem;
@@ -1745,7 +1745,7 @@ body {
   z-index: 1;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  background-color: #fe525b;
+  background-color: #7ccbf1;
 }
 .cid-rvsmQkawSE .card .card-wrapper .card-img .img-text span {
   display: block;
